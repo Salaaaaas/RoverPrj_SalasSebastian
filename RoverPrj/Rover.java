@@ -7,7 +7,7 @@ import java.util.Random;
  * Representa un vehículo explorador Mars Rover.
  * Esta clase gestiona el movimiento, el consumo de potencia, la detección de fugas
  * y el registro histórico de mandatos ejecutados.
- * * @author Tu Nombre Completo
+ * * @author Sebastian Salas Leiton
  * @version 1.0
  */
 public class Rover {
